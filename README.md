@@ -14,3 +14,5 @@ The sentiment is analysed using a [Naive Bayes bag-of-words Method](https://en.w
 <img src="https://raw.githubusercontent.com/MarcusoHanlon/TwitterSentiment/master/MachineLearningCloud.png" align="Left"/>
 #Associated Sentiment
 <img src="https://raw.githubusercontent.com/MarcusoHanlon/TwitterSentiment/master/Sentiment.png" align="middle"/>
+#Top Words
+<img src="https://raw.githubusercontent.com/MarcusoHanlon/TwitterSentiment/master/Sentiment.png" align="middle"/>
