@@ -1,10 +1,10 @@
 # TwitterSentiment
 
-The following script [Twitter, Scrap + Analyse Sentiment](https://github.com/MarcusoHanlon/TwitterSentiment/blob/master/TwittAnalysis.R) allows user to connect to the Twitter Api, pull a spre-selected number of tweets, plot these tweets in a word cloud and then analyse the sentiment associated with the tweets.
+The following script [TwittAnlysis.R](https://github.com/MarcusoHanlon/TwitterSentiment/blob/master/TwittAnalysis.R) allows user to connect to the Twitter Api, pull a spre-selected number of tweets, plot these tweets in a word cloud and then analyse the sentiment associated with the tweets.
 
 The analysis was carried out to assess the sentiment associated with Conor McGregor following an interview he had with Aerial Helawi on the 5th of October 2015.
 
-The sentiment is analysed using a [Naive Bayes bag-of-words Method](https://en.wikipedia.org/wiki/Bag-of-words_model). The method uses and orderless document to represent the frequencies of words from a dictionary. 
+The sentiment is analysed using a [Naive Bayes bag-of-words Method](https://en.wikipedia.org/wiki/Bag-of-words_model). The method uses and orderless document to represent the frequencies of words from a dictionary. And then uses an naive Bayes classifier to predicit the wether the tweet carries negative or positive connotations.
 
 <img src="http://www.saedsayad.com/images/Bayes_rule.png" align="Centre"/>
 
