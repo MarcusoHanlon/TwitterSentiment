@@ -4,6 +4,12 @@ The following script [Twitter, Scrap + Analyse Sentiment](https://github.com/Mar
 
 The analysis was carried out to assess the sentiment associated with Conor McGregor following an interview he had with Aerial Helawi on the 5th of October 2015.
 
+The sentiment is analysed using a [Naive Bayes bag-of-words Method](https://en.wikipedia.org/wiki/Bag-of-words_model). The method uses and orderless document to represent the frequencies of words from a dictionary. 
+
+<img src="http://www.saedsayad.com/images/Bayes_rule.png" align="Centre"/>
+
+[Comparison of text clasification algorithms](http://www.inf.ed.ac.uk/teaching/courses/inf2b/learnnotes/inf2b-learn-note07-2up.pdf)
+
 #WordCloud
 <img src="https://raw.githubusercontent.com/MarcusoHanlon/TwitterSentiment/master/MachineLearningCloud.png" align="Left"/>
 #Associated Sentiment
