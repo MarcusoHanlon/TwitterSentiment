@@ -8,6 +8,14 @@ The sentiment is analysed using a [Naive Bayes bag-of-words Method](https://en.w
 
 <img src="http://www.saedsayad.com/images/Bayes_rule.png" align="Centre"/>
 
+#Process
+1)Connect to the Twitter API
+2)Collect required Tweets (search term + number of tweets)
+3)Create term frequency document
+4)Use Naive Bayes bag-of-words classifier to classify Sentiment + Emotion of Tweet
+5)Visualize
+
+#Further reading
 [Comparison of text clasification algorithms](http://www.inf.ed.ac.uk/teaching/courses/inf2b/learnnotes/inf2b-learn-note07-2up.pdf)
 
 #WordCloud
