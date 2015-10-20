@@ -24,10 +24,10 @@ The sentiment is analysed using a [Naive Bayes bag-of-words Method](https://en.w
 [Comparison of text clasification algorithms](http://www.inf.ed.ac.uk/teaching/courses/inf2b/learnnotes/inf2b-learn-note07-2up.pdf)
 
 #WordCloud
-<img src="https://raw.githubusercontent.com/MarcusoHanlon/TwitterSentiment/master/MachineLearningCloud.png" align="Left"/>
+<img src="https://raw.githubusercontent.com/MarcusoHanlon/TwitterSentiment/master/pics/MachineLearningCloud.png" align="Left"/>
 #Associated Sentiment
-<img src="https://raw.githubusercontent.com/MarcusoHanlon/TwitterSentiment/master/Sentiment.png" align="middle"/>
+<img src="https://raw.githubusercontent.com/MarcusoHanlon/TwitterSentiment/master/pics/Sentiment.png" align="middle"/>
 #Emotions Conveyed
-<img src="https://raw.githubusercontent.com/MarcusoHanlon/TwitterSentiment/master/Emotions.png" align="middle"/>
+<img src="https://raw.githubusercontent.com/MarcusoHanlon/TwitterSentiment/master/pics/Emotions.png" align="middle"/>
 #Words/Tweet
-<img src="https://raw.githubusercontent.com/MarcusoHanlon/TwitterSentiment/master/words.png" align="middle"/>
+<img src="https://raw.githubusercontent.com/MarcusoHanlon/TwitterSentiment/master/pics/words.png" align="middle"/>
